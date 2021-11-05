@@ -1,5 +1,5 @@
 {
-    "name": "MiamiCoin",
-    "description": "A CityCoin for Miami, ticker is $MIA, Stack it to earn Stacks ($STX)",
-    "image": "https://cdn.citycoins.co/logos/miamicoin.png"
+  "name": "MiamiCoin",
+  "description": "A CityCoin for Miami, ticker is MIA, Stack it to earn Stacks (STX)",
+  "image": "https://cdn.citycoins.co/logos/miamicoin.png"
 }
